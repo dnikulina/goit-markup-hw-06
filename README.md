@@ -42,7 +42,3 @@ It combines the markup, styling, layout, modal, form, and interaction techniques
 - responsive navigation;
 - flexible content grids;
 - combining reusable CSS patterns into a complete landing page.
-
-## Live Demo
-
-[Open GitHub Pages](https://dashakim2209.github.io/goit-markup-hw-06/)
